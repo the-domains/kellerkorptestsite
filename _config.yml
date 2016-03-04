@@ -2,6 +2,7 @@ name: kellerkorpTestSite
 favicon: null
 layout_spectrum: 0.3099617715924978
 typography_spectrum: 0.9621827669907361
+title: Thoughts From B4
 cta:
   domain: null
   bucket: null
